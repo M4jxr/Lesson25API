@@ -1,0 +1,15 @@
+C:\Users\Serhii\Desktop\bitroot\23\AsyncProject\bin\Debug\net6.0\AsyncProject.exe
+C:\Users\Serhii\Desktop\bitroot\23\AsyncProject\bin\Debug\net6.0\AsyncProject.deps.json
+C:\Users\Serhii\Desktop\bitroot\23\AsyncProject\bin\Debug\net6.0\AsyncProject.runtimeconfig.json
+C:\Users\Serhii\Desktop\bitroot\23\AsyncProject\bin\Debug\net6.0\AsyncProject.dll
+C:\Users\Serhii\Desktop\bitroot\23\AsyncProject\bin\Debug\net6.0\AsyncProject.pdb
+C:\Users\Serhii\Desktop\bitroot\23\AsyncProject\obj\Debug\net6.0\AsyncProject.csproj.AssemblyReference.cache
+C:\Users\Serhii\Desktop\bitroot\23\AsyncProject\obj\Debug\net6.0\AsyncProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Serhii\Desktop\bitroot\23\AsyncProject\obj\Debug\net6.0\AsyncProject.AssemblyInfoInputs.cache
+C:\Users\Serhii\Desktop\bitroot\23\AsyncProject\obj\Debug\net6.0\AsyncProject.AssemblyInfo.cs
+C:\Users\Serhii\Desktop\bitroot\23\AsyncProject\obj\Debug\net6.0\AsyncProject.csproj.CoreCompileInputs.cache
+C:\Users\Serhii\Desktop\bitroot\23\AsyncProject\obj\Debug\net6.0\AsyncProject.dll
+C:\Users\Serhii\Desktop\bitroot\23\AsyncProject\obj\Debug\net6.0\refint\AsyncProject.dll
+C:\Users\Serhii\Desktop\bitroot\23\AsyncProject\obj\Debug\net6.0\AsyncProject.pdb
+C:\Users\Serhii\Desktop\bitroot\23\AsyncProject\obj\Debug\net6.0\AsyncProject.genruntimeconfig.cache
+C:\Users\Serhii\Desktop\bitroot\23\AsyncProject\obj\Debug\net6.0\ref\AsyncProject.dll
